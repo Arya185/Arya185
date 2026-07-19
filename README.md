@@ -20,20 +20,6 @@
 
 ---
 
-## About Me
-
-I am building a profile around practical engineering, thoughtful product design, and AI-driven problem solving. My focus is on understanding real-world problems, shaping solutions clearly, and turning ideas into systems that are useful and measurable.
-
----
-
-## Current Focus
-
-- Developing projects that connect AI/ML with software products.
-- Exploring agentic AI, automation, and applied machine learning workflows.
-- Strengthening the foundation behind clean interfaces, reliable systems, and strong technical communication.
-
----
-
 
 ## Tech Stack
 
