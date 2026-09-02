@@ -43,15 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya185&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya185&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
-</p>
-
----
+-
 
 ## Dev Quote
 
