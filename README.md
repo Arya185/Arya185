@@ -20,7 +20,6 @@
 
 ---
 
-
 ## Tech Stack
 
 | Area | Tools |
@@ -50,5 +49,3 @@
 > “The clearest systems are often built by people who stay curious long enough to simplify what matters.”
 
 ---
-
-  
