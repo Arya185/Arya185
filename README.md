@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya185&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
--
+---
 
 ## Dev Quote
 
